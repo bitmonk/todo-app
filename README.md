@@ -1,14 +1,14 @@
-# WeatherApp
+# TodoApp
 
-A Simple Weather App that displays all the necessary weather information of a given location.
+A Simple Todo App where one can add, edit, update and delete tasks.
 
 ## Description
 
-A Weather App that fetches weather data from api and displays it in a simple UI. All the weather data are fetched from openweather API that shows accurate data based on given location. The app is built using HTML, CSS, JAVASCRIPT and REACT.
+A Todo App that lets users add, edit, update and delete tasks. The UI is simple, minimal and easy to operate. The app is built using HTML, CSS, JAVASCRIPT and REACT.
 
 ## Screenshot
 
-![alt text](https://github.com/bitmonk/weatherApp-React/blob/main/weatherApp/public/images/weatherss.png?raw=true)
+![alt text](https://github.com/bitmonk/todo-app/blob/main/src/assets/todoss.png?raw=true)
 
 ### Executing program
 
