@@ -18,3 +18,7 @@ A Todo App that lets users add, edit, update and delete tasks. The UI is simple,
 ```
 npm run dev
 ```
+
+## Technologies I am using
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,vscodefigma&theme=light)](https://skillicons.dev)
